@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Machine Learned Sentiment Analysis using Python
+message: Citation guidelines
+type: software
+authors:
+  - given-names: Ricky
+    family-names: Lam
+    email: lam.ricky98@gmail.com
+  - given-names: Maryam
+    family-names: Eskandari
+    email: M.Eskandari.ca@gmail.com
