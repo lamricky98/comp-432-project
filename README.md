@@ -2,6 +2,8 @@
 
 By **Ricky Lam 40089502** and **Maryam Eskandari 40065716**
 
+Repo URL: https://github.com/lamricky98/comp-432-project
+
 In this repository you will find our Machine Learning Project's Jupyter
 Notebook file. The Jupyter Notebook contains all the code necessary
 for the project, there are no other additional files other than the
